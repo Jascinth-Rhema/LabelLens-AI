@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """LabelLens AI - Super UI edition.  Run with:  streamlit run app.py"""
 import json
 from html import escape
@@ -519,7 +518,6 @@ with tabs[5]:
         st.info("No scans yet. Check a label and it will appear here.")
 
 st.divider()
-=======
 """LabelLens AI - Super UI edition.  Run with:  streamlit run app.py"""
 import json
 from html import escape
@@ -1040,5 +1038,3 @@ with tabs[5]:
         st.info("No scans yet. Check a label and it will appear here.")
 
 st.divider()
->>>>>>> e5d2695 (LabelLens AI)
-st.caption("General information only, not medical advice. Ingredient amounts are usually not on labels, so no product can be called fully safe or unsafe. Patch-test new skincare and ask a doctor or dermatologist about skin or health conditions.")
