@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+[theme]
+base = "light"
+primaryColor = "#4f46e5"
+backgroundColor = "#f7f8fc"
+secondaryBackgroundColor = "#ffffff"
+=======
+[theme]
+base = "light"
+primaryColor = "#4f46e5"
+backgroundColor = "#f7f8fc"
+secondaryBackgroundColor = "#ffffff"
+>>>>>>> e5d2695 (LabelLens AI)
+textColor = "#1e1b4b"
