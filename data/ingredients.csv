@@ -64,8 +64,4 @@ name,aliases,category,level,what,advantage,disadvantage
 "Spices and seasonings","onion powder|coriander|chilli|chili|chil powder|garlic|black pepper|pepper powder|clove|cardamom|nutmeg|cinnamon|mustard|spices|spice|masala|fenugreek|asafoetida",f,ok,"Flavour and aroma.","Add taste without extra salt or sugar; many have antioxidants.","Hot spices can upset a sensitive stomach."
 "Hydrolysed protein flavour","hydrolysed groundnut|hydrolyzed groundnut|hydrolysed soy|hydrolysed protein|hydrolyzed protein",f,ok,"Protein broken down to boost savoury taste.","Adds umami flavour.","Can be high in sodium; groundnut or soy types matter if you avoid those foods."
 "Wheat gluten","wheat gluten|gluten",f,ok,"Wheat protein that gives dough elasticity.","Chewy texture and some protein.","Contains gluten; avoid with coeliac disease."
-<<<<<<< HEAD
 "Starch","starch|modified starch|tapioca",f,ok,"Thickener and bulking agent.","Gives texture.","Mostly refined carbohydrate."
-=======
-"Starch","starch|modified starch|tapioca",f,ok,"Thickener and bulking agent.","Gives texture.","Mostly refined carbohydrate."
->>>>>>> e5d2695 (LabelLens AI)
