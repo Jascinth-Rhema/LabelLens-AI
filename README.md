@@ -3,7 +3,6 @@
 ### AI-Powered Food & Skincare Label Analyzer
 
 LabelLens AI is a Streamlit-based application that helps users understand food and skincare product labels using OCR, ingredient analysis, nutrition analysis, and personalized recommendations.
-https://labellens-ai-1-b8v7.onrender.com/
 ---
 
 ##  features
@@ -139,7 +138,7 @@ streamlit run app.py
 The application will open in your browser at:
 
 ```text
-http://localhost:8501
+https://labellens-ai-1-b8v7.onrender.com/
 ```
 
 ---
