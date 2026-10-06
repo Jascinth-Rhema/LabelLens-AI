@@ -244,5 +244,5 @@ def build_report(hits, unknown, category: str, title: str, subtitle: str, swaps)
     if swaps:
         lines += ["", "HEALTHIER SWAPS"] + [f"- Instead of {n}: {t}" for n, t in swaps]
     lines += ["", "General information only, not medical advice. Ingredient amounts are usually not on labels."]
->>>>>>> e5d2695 (LabelLens AI)
+e5d2695 (LabelLens AI)
     return "\n".join(lines)
