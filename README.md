@@ -138,7 +138,6 @@ streamlit run app.py
 The application will open in your browser at:
 
 ```text
-https://labellens-ai-1-b8v7.onrender.com/
 ```
 
 ---
@@ -175,6 +174,8 @@ For Render, the application can be started with:
 ```bash
 streamlit run app.py --server.address 0.0.0.0 --server.port $PORT
 ```
+https://labellens-ai-1-b8v7.onrender.com/
+
 
 ---
 
